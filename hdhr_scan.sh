@@ -35,7 +35,7 @@ ID=101B8CCA # HDHomeRun device ID
 T=tuner1 # Tuner to use (use the least popular one)
 
 # Set these to desired values
-PMAX=6 # Number of passes to make, set to one more than you want
+PMAX=6 # Number of passes to make
 PAUSE=600 # sleep time in between passes, longer time will spread 
         # out the screencaps for more variety
 OUTDIR=~/hdhr_scan/ # Desired output directory
